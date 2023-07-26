@@ -37,7 +37,6 @@
     "openfl.lime-vscode-extension",
     "levertion.mcjson",
     "strum355.vscode-mc-shader",
-    "adamraichu.minecraft-lang",
-    ""
+    "adamraichu.minecraft-lang"
   ]
 }
