@@ -1,0 +1,43 @@
+{
+  "name": "fb-code-extension-pack",
+  "displayName": "FB Code Extension Pack",
+  "description": "A Pack of extensions and themes made for my personal use. Since i use this extensions daily i made a pack to install them faster.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "aaron-bond.better-comments", 
+    "Blackboxapp.blackbox", 
+    "DavidAnson.vscode-markdownlint", 
+    "equinusocio.vsc-material-theme-icons", 
+    "esbenp.prettier-vscode", 
+    "mrmlnc.vscode-json5", 
+    "ms-python.python", 
+    "ms-python.vscode-pylance", 
+    "ms-toolsai.jupyter", 
+    "ms-toolsai.jupyter-keymap", 
+    "ms-toolsai.jupyter-renderers", 
+    "ms-toolsai.vscode-jupyter-cell-tags", 
+    "ms-toolsai.vscode-jupyter-slideshow", 
+    "ms-vscode-remote.remote-wsl", 
+    "ms-vscode.powershell", 
+    "PKief.material-icon-theme", 
+    "rokoroku.vscode-theme-darcula", 
+    "TabNine.tabnine-vscode", 
+    "tamasfe.even-better-toml", 
+    "twxs.cmake", 
+    "wekex.snapit", 
+    "xabikos.JavaScriptSnippets", 
+    "ZainChen.json",
+    "vshaxe.haxe-extension-pack",
+    "openfl.lime-vscode-extension",
+    "levertion.mcjson",
+    "strum355.vscode-mc-shader",
+    "adamraichu.minecraft-lang",
+    ""
+  ]
+}
