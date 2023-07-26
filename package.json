@@ -3,6 +3,12 @@
   "displayName": "FB Code Extension Pack",
   "description": "A Pack of extensions and themes made for my personal use. Since i use this extensions daily i made a pack to install them faster.",
   "version": "0.0.1",
+  "publisher": "filmabem2",
+    "homepage": "https://github.com/FilmaBem2/FB-Code-Extension-Pack",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/FilmaBem2/FB-Code-Extension-Pack.git"
+	},
   "engines": {
     "vscode": "^1.80.0"
   },
