@@ -2,7 +2,7 @@
   "name": "fb-code-extension-pack",
   "displayName": "FB Code Extension Pack",
   "description": "A Pack of extensions and themes made for my personal use. Since i use this extensions daily i made a pack to install them faster.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "filmabem2",
     "homepage": "https://github.com/FilmaBem2/FB-Code-Extension-Pack",
 	"repository": {
@@ -43,6 +43,7 @@
     "openfl.lime-vscode-extension",
     "levertion.mcjson",
     "strum355.vscode-mc-shader",
-    "adamraichu.minecraft-lang"
+    "adamraichu.minecraft-lang",
+    "dracula-theme.theme-dracula"
   ]
 }
